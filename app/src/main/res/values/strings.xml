@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Makan Euy</string>
+
+    <string-array name="resep_masak">
+        <item>Makanan Khas Jawa Barat</item>
+        <item>Makanan Khas Jawa Tengah</item>
+        <item>Makanan Khas Sumatra Barat</item>
+        <item>Makanan Khas Sulawesi Selatan</item>
+        <item>Makanan Khas Sulawesi Utara</item>
+    </string-array>
+    <string-array name="subtitle">
+        <item>Klik disini.</item>
+        <item>Klik disini.</item>
+        <item>Klik disini.</item>
+        <item>Klik disini.</item>
+        <item>Klik disini.</item>
+    </string-array>
+    <string-array name="makananjabar">
+        <item>Nasi Timbel</item>
+        <item>jabar2</item>
+        <item>jabar3</item>
+        <item>jabar4</item>
+        <item>jabar5</item>
+    </string-array>
+    <string-array name="makananjateng">
+        <item>jateng1</item>
+        <item>jateng2</item>
+        <item>jateng3</item>
+        <item>jateng4</item>
+        <item>jateng5</item>
+    </string-array>
+    <string-array name="makanansumbar">
+        <item>sumbar1</item>
+        <item>sumbar2</item>
+        <item>sumbar3</item>
+        <item>sumbar4</item>
+        <item>sumbar5</item>
+    </string-array>
+    <string-array name="makanansulsel">
+        <item>sulsel1</item>
+        <item>sulsel2</item>
+        <item>sulsel3</item>
+        <item>sulsel4</item>
+        <item>sulsel5</item>
+    </string-array>
+    <string-array name="makanansulut">
+        <item>sulut1</item>
+        <item>sulut2</item>
+        <item>sulut3</item>
+        <item>sulut4</item>
+        <item>sulut5</item>
+    </string-array>
+    <string-array name="descriptionjabar">
+        <item>Desc1</item>
+        <item>Desc2</item>
+        <item>Desc3</item>
+        <item>Desc4</item>
+        <item>Desc5</item>
+    </string-array>
+    <string-array name="descriptionjateng">
+        <item>Desc1</item>
+        <item>Desc2</item>
+        <item>Desc3</item>
+        <item>Desc4</item>
+        <item>Desc5</item>
+    </string-array>
+    <string-array name="descriptionsumbar">
+        <item>Desc1</item>
+        <item>Desc2</item>
+        <item>Desc3</item>
+        <item>Desc4</item>
+        <item>Desc5</item>
+    </string-array>
+    <string-array name="descriptionsulsel">
+        <item>Desc1</item>
+        <item>Desc2</item>
+        <item>Desc3</item>
+        <item>Desc4</item>
+        <item>Desc5</item>
+    </string-array>
+    <string-array name="descriptionsulut">
+        <item>Desc1</item>
+        <item>Desc2</item>
+        <item>Desc3</item>
+        <item>Desc4</item>
+        <item>Desc5</item>
+    </string-array>
+</resources>
